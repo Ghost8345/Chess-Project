@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CSED/1st year/1st term/Programming/Chess Project/Chess Project_main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+ctype.h
+-
+
